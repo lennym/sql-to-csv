@@ -1,5 +1,5 @@
 {
-  "name": "sql-to-csv",
+  "name": "@lennym/sql-to-csv",
   "version": "1.0.0",
   "description": "Converts SQL query table output to a CSV",
   "bin": {
@@ -26,5 +26,8 @@
     "minimist": "^1.2.0",
     "split": "^1.0.1",
     "through": "^2.3.8"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
