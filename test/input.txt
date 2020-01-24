@@ -1,0 +1,10 @@
+ column   | value
+----------+-------
+ A        | 0
+ BB       | 1
+ CCC      | 2
+ DDDD     | 3
+ EEEEE    | 4
+ FFFFFF   | 5
+ GGGGGGG  | 6
+ HHHHHHHH | 7
