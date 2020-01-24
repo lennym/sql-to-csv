@@ -17,7 +17,7 @@ Takes tables of this form as produced by database query output and turns them in
  HHHHHHHH | 7
 ```
 
-Usage:
+## Usage:
 
 Add a file path to read:
 
